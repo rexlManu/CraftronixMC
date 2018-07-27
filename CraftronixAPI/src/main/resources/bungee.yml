@@ -1,0 +1,3 @@
+name: CraftronixAPI
+version: ${project.version}
+main: tk.craftronixmc.craftronixapi.bungeecord.BungeeTrap

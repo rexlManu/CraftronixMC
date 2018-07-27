@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CraftronixAPI">
+    <output-path>$PROJECT_DIR$/Export</output-path>
+    <root id="archive" name="CraftronixAPI.jar">
+      <element id="module-output" name="CraftronixAPI" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/arangodb/arangodb-java-driver/4.6.1/arangodb-java-driver-4.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/arangodb/velocypack/1.2.0/velocypack-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.5/jackson-core-2.9.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.13/slf4j-api-1.7.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

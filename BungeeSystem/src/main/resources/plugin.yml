@@ -1,0 +1,13 @@
+name: BungeeSystem
+version: ${project.version}
+main: tk.craftronixmc.bungeesystem.BungeeSystem
+depend: [CraftronixAPI]
+commands:
+  hub:
+  support:
+  msg:
+  r:
+  msgtoggle:
+  maintenance:
+  chatclear:
+  cc:

@@ -1,0 +1,6 @@
+name: LobbySystem
+version: ${project.version}
+main: tk.craftronixmc.lobbysystem.LobbySystem
+depend: [CraftronixAPI]
+commands:
+  setup:
